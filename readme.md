@@ -564,3 +564,5 @@ Contributions, questions and comments are all welcome and encouraged. For code c
 ## License
 
  [MIT license](http://opensource.org/licenses/MIT)
+git remote add origin https://github.com/levanlap/ht02.git
+git push -u origin master
